@@ -4,4 +4,6 @@ I implement this paper ["FaceNet: A Unified Embedding for Face Recognition and C
 Use the dataset VGGFace2 for training. And I preprocess a part data, you can donwlode in [this](). Put the data in dataset dir.  
 Can see the implement detail in doc.
 
- 
+reference :   
+ 1.  [tripletloss-keras-tensorflow](https://github.com/noelcodella/tripletloss-keras-tensorflow)  
+ 2.  [keras-facenet](https://github.com/nyoki-mtl/keras-facenet)  
